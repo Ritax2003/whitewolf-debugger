@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitewolf-debugger&" alt="whitewolf-debugger" /></p>
 <figure>
-  <caption> <b>Pankaj Goel's Contribution Graph </b></caption>
   <img src ="https://activity-graph.herokuapp.com/graph?username=whitewolf-debugger&theme=react-dark">
 </figure>
 
