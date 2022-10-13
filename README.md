@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitewolf-debugger&label=Profile%20views&color=0e75b6&style=flat" alt="whitewolf-debugger" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitewolf-debugger" alt="whitewolf-debugger" /></a> </p>
-
 - 🌱 I’m currently learning **Full stack Web Development**
 
 - 📫 Contact me **goelpankaj875@gmail.com**
