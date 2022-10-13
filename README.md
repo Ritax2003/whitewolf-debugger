@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitewolf-debugger&" alt="whitewolf-debugger" /></p>
 <figure>
-  <img src ="https://activity-graph.herokuapp.com/graph?username=whitewolf-debugger&theme=react-dark">
+  <img src ="https://activity-graph.herokuapp.com/graph?username=whitewolf-debugger&theme=react-dark" width ="100%>
 </figure>
 
 
