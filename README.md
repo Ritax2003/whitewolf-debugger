@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitewolf-debugger&show_icons=true&locale=en" alt="whitewolf-debugger" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitewolf-debugger&" alt="whitewolf-debugger" /></p>
-<img src ="https://github.com/Shpota/github-activity-generator>
+<img src ="https://github.com/Shpota/github-activity-generator">
